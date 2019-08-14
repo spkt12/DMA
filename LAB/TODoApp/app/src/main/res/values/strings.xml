@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidToDoApp</string>
+    <string-array name="tasks">
+        <item>WakeUp</item>
+        <item>Coffe</item>
+        <item>Make at least one person laugh</item>
+        <item>Dinner</item>
+    </string-array>
+    <string-array name="todo_description_">
+        <item>WakeUp at 5 AM</item>
+        <item>WakeUp at 5 AM</item>
+        <item>WakeUp at 5 AM</item>
+        <item>Dinner at 8 PM</item>
+    </string-array>
+</resources>
